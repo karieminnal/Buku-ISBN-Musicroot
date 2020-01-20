@@ -1,0 +1,26 @@
+\contentsline {schapter}{Daftar Gambar}{xi}% 
+\contentsline {schapter}{Daftar Tabel}{xiii}% 
+\contentsline {schapter}{Foreword}{xvii}% 
+\contentsline {schapter}{Kata Pengantar}{xix}% 
+\contentsline {schapter}{Acknowledgments}{xxi}% 
+\contentsline {schapter}{Acronyms}{xxiii}% 
+\contentsline {schapter}{Glossary}{xxv}% 
+\contentsline {schapter}{List of Symbols}{xxvii}% 
+\contentsline {schapter}{Introduction}{xxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}% 
+\contentsline {chapter}{\numberline {1}Teori}{1}% 
+\contentsline {chapter}{\numberline {2}\textit {Teori}}{3}% 
+\contentsline {section}{\numberline {2.1}Sejarah \textit {Python}}{3}% 
+\contentsline {section}{\numberline {2.2}Sejarah \textit {Selenium}}{4}% 
+\contentsline {section}{\numberline {2.3}Jenis-Jenis \textit {Selenium} \textit {}}{4}% 
+\contentsline {section}{\numberline {2.4}Anaconda}{6}% 
+\contentsline {subsection}{\numberline {2.4.1}Instalasi Anaconda}{6}% 
+\contentsline {section}{\numberline {2.5}Instalasi Pip}{11}% 
+\contentsline {section}{\numberline {2.6}Setting Environment}{13}% 
+\contentsline {subsection}{\numberline {2.6.1}Windows (Windows 10)}{13}% 
+\contentsline {section}{\numberline {2.7}Geckodriver dan Chromedriver}{15}% 
+\contentsline {subsection}{\numberline {2.7.1}Gechodriver untuk Mozilla Firefox}{15}% 
+\contentsline {chapter}{\numberline {3}Menggunakan Selenium}{17}% 
+\contentsline {section}{\numberline {3.1}Penggunaan Selenium}{17}% 
+\contentsline {subsection}{\numberline {3.1.1}Cara find element atau class }{21}% 
+\contentsline {subsection}{\numberline {3.1.2}Mengambil element dari web siap.poltekpos.ac.id}{22}% 
