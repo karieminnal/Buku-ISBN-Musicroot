@@ -1,5 +1,5 @@
 \contentsline {figure}{\numberline {2.1\relax }{\ignorespaces Run Setup Anaconda}}{6}% 
-\contentsline {figure}{\numberline {2.2\relax }{\ignorespaces Setup Loading}}{7}% 
+\contentsline {figure}{\numberline {2.2\relax }{\ignorespaces Setup Loading}}{6}% 
 \contentsline {figure}{\numberline {2.3\relax }{\ignorespaces Welcome to Anaconda Setup}}{7}% 
 \contentsline {figure}{\numberline {2.4\relax }{\ignorespaces \textit {License Agreement}}}{7}% 
 \contentsline {figure}{\numberline {2.5\relax }{\ignorespaces \textit {Just Me(recomended)}}}{8}% 
@@ -10,27 +10,28 @@
 \contentsline {figure}{\numberline {2.10\relax }{\ignorespaces \textit {Anaconda+JetBrains}}}{10}% 
 \contentsline {figure}{\numberline {2.11\relax }{\ignorespaces \textit {Thanks for install Anaconda}}}{11}% 
 \contentsline {figure}{\numberline {2.12\relax }{\ignorespaces \textit {Install pip}}}{11}% 
-\contentsline {figure}{\numberline {2.13\relax }{\ignorespaces \textit {Install pip Selesai}}}{12}% 
-\contentsline {figure}{\numberline {2.14\relax }{\ignorespaces \textit {Melihat Versi pip}}}{12}% 
-\contentsline {figure}{\numberline {2.15\relax }{\ignorespaces \textit {Properties}}}{13}% 
-\contentsline {figure}{\numberline {2.16\relax }{\ignorespaces \textit {Advanced system settings}}}{13}% 
-\contentsline {figure}{\numberline {2.17\relax }{\ignorespaces \textit {Environment Variables}}}{14}% 
-\contentsline {figure}{\numberline {2.18\relax }{\ignorespaces \textit {Path}}}{15}% 
-\contentsline {figure}{\numberline {2.19\relax }{\ignorespaces \textit {Gechodriver}}}{16}% 
-\contentsline {figure}{\numberline {3.1\relax }{\ignorespaces \textit {Running spyder}}}{19}% 
-\contentsline {figure}{\numberline {3.2\relax }{\ignorespaces \textit {Running spyder console}}}{20}% 
-\contentsline {figure}{\numberline {3.3\relax }{\ignorespaces \textit {Running masih berjalan}}}{20}% 
-\contentsline {figure}{\numberline {3.4\relax }{\ignorespaces \textit {Running selesai}}}{20}% 
-\contentsline {figure}{\numberline {3.5\relax }{\ignorespaces \textit {Tampilan siap.poltekpos}}}{21}% 
-\contentsline {figure}{\numberline {3.6\relax }{\ignorespaces \textit {Tampilan siap.poltekpos}}}{23}% 
-\contentsline {figure}{\numberline {3.7\relax }{\ignorespaces \textit {inspect element by name}}}{23}% 
-\contentsline {figure}{\numberline {3.8\relax }{\ignorespaces \textit {Tampilan loading login}}}{24}% 
-\contentsline {figure}{\numberline {3.9\relax }{\ignorespaces \textit {Tampilan login}}}{24}% 
-\contentsline {figure}{\numberline {3.10\relax }{\ignorespaces \textit {inspect element nilai mahasiswa}}}{25}% 
-\contentsline {figure}{\numberline {3.11\relax }{\ignorespaces \textit {inspect element by xpath}}}{26}% 
-\contentsline {figure}{\numberline {3.12\relax }{\ignorespaces \textit {Tampilan nilai semester mahasiswa}}}{26}% 
-\contentsline {figure}{\numberline {3.13\relax }{\ignorespaces \textit {inspect element tahun akademik}}}{27}% 
-\contentsline {figure}{\numberline {3.14\relax }{\ignorespaces \textit {inspect element by xpath semster genap}}}{27}% 
-\contentsline {figure}{\numberline {3.15\relax }{\ignorespaces \textit {Tampilan nilai semester genap 2018/2019}}}{28}% 
-\contentsline {figure}{\numberline {3.16\relax }{\ignorespaces \textit {inspect element cari}}}{28}% 
-\contentsline {figure}{\numberline {3.17\relax }{\ignorespaces \textit {inspect element by class name cari}}}{28}% 
+\contentsline {figure}{\numberline {2.13\relax }{\ignorespaces \textit {Install pip Selesai}}}{11}% 
+\contentsline {figure}{\numberline {2.14\relax }{\ignorespaces \textit {Melihat Versi pip}}}{11}% 
+\contentsline {figure}{\numberline {2.15\relax }{\ignorespaces \textit {Properties}}}{12}% 
+\contentsline {figure}{\numberline {2.16\relax }{\ignorespaces \textit {Advanced system settings}}}{12}% 
+\contentsline {figure}{\numberline {2.17\relax }{\ignorespaces \textit {Environment Variables}}}{13}% 
+\contentsline {figure}{\numberline {2.18\relax }{\ignorespaces \textit {Path}}}{14}% 
+\contentsline {figure}{\numberline {2.19\relax }{\ignorespaces \textit {Gechodriver}}}{15}% 
+\contentsline {figure}{\numberline {3.1\relax }{\ignorespaces \textit {Tampilan awal spyder}}}{18}% 
+\contentsline {figure}{\numberline {3.2\relax }{\ignorespaces \textit {Running spyder}}}{19}% 
+\contentsline {figure}{\numberline {3.3\relax }{\ignorespaces \textit {Running spyder console}}}{20}% 
+\contentsline {figure}{\numberline {3.4\relax }{\ignorespaces \textit {Running masih berjalan}}}{20}% 
+\contentsline {figure}{\numberline {3.5\relax }{\ignorespaces \textit {Running selesai}}}{20}% 
+\contentsline {figure}{\numberline {3.6\relax }{\ignorespaces \textit {Tampilan siap.poltekpos}}}{21}% 
+\contentsline {figure}{\numberline {3.7\relax }{\ignorespaces \textit {Tampilan siap.poltekpos}}}{23}% 
+\contentsline {figure}{\numberline {3.8\relax }{\ignorespaces \textit {inspect element by name}}}{23}% 
+\contentsline {figure}{\numberline {3.9\relax }{\ignorespaces \textit {Tampilan loading login}}}{24}% 
+\contentsline {figure}{\numberline {3.10\relax }{\ignorespaces \textit {Tampilan login}}}{24}% 
+\contentsline {figure}{\numberline {3.11\relax }{\ignorespaces \textit {inspect element nilai mahasiswa}}}{25}% 
+\contentsline {figure}{\numberline {3.12\relax }{\ignorespaces \textit {inspect element by xpath}}}{26}% 
+\contentsline {figure}{\numberline {3.13\relax }{\ignorespaces \textit {Tampilan nilai semester mahasiswa}}}{26}% 
+\contentsline {figure}{\numberline {3.14\relax }{\ignorespaces \textit {inspect element tahun akademik}}}{27}% 
+\contentsline {figure}{\numberline {3.15\relax }{\ignorespaces \textit {inspect element by xpath semster genap}}}{27}% 
+\contentsline {figure}{\numberline {3.16\relax }{\ignorespaces \textit {Tampilan nilai semester genap 2018/2019}}}{28}% 
+\contentsline {figure}{\numberline {3.17\relax }{\ignorespaces \textit {inspect element cari}}}{28}% 
+\contentsline {figure}{\numberline {3.18\relax }{\ignorespaces \textit {inspect element by class name cari}}}{28}% 
